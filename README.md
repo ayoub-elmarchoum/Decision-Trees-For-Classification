@@ -1,0 +1,1 @@
+Ce projet explore la classification d'ensembles de données à l'aide de méthodes arborescentes, notamment les Decision Trees, Random Forests et Gradient Boosted Trees. Nous utiliserons le jeu de données "Palmer Penguins"
